@@ -21,7 +21,7 @@ I chose @LeWagon to start this new challenge and learn as much as I can. Now I n
 Curious, motivated and team player, I want to join a company, a project that will allow me to upgrade and give the best of me.</p>
 
 <p><strong>Skills</strong></p>
-<p><strong>#Ruby #RubyOnRails #CSS #HTML #JS #Stimulus #SQL #PostgreSQL #Github</strong></p>
+<p><strong>#Ruby #RubyOnRails #CSS #HTML #JS #React #Stimulus #SQL #PostgreSQL #Github</strong></p>
 
 <p>You can find me here:</p>
   <ul>
